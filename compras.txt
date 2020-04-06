@@ -1,6 +1,6 @@
-arroz
+﻿arroz
 massa
-feijăo
+feijăo branco
 carne
 cerveja
 pão
